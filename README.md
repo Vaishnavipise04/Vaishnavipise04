@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 
 👋 Hi there, I'm **Vaishnavi Pise**  
 🎓 Final Year Computer Science & Engineering Student  
@@ -83,8 +82,3 @@ Java • C • JavaScript • React.js • Node.js • Express.js • MongoDB �
 💻 **Full-Stack Development** | 🤖 **AI & IoT** | 🌐 **Web Development** | 🚀 **Open Source**
 
 ⭐ **Always learning. Always building. Always improving.**
-
-
- in this code i wnat to add my new projects
-
----
